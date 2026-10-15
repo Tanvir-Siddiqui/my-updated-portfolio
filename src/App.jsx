@@ -264,7 +264,7 @@ function App() {
 
       {/* Header */}
       <header className="header">
-        <a href="#home" className="logo">My Portfolio</a>
+        <a href="" className="logo">My Portfolio</a>
         <nav className="navbar">
           <a href="#home" className={activeNav === 'home' ? 'active' : ''} onClick={() => setActiveNav('home')}>Home</a>
           <a href="#about" className={activeNav === 'about' ? 'active' : ''} onClick={() => setActiveNav('about')}>About</a>
@@ -376,7 +376,7 @@ function App() {
           <p style={{ color: '#aaa', fontSize: '14px' }}>Copyright &copy; 2026 Tanvir Siddiqui. All Rights Reserved.</p>
         </div>
         <div className="footer-iconTop">
-          <a href="#home"><i className='bx bx-up-arrow-alt'></i></a>
+          <a href=""><i className='bx bx-up-arrow-alt'></i></a>
         </div>
       </footer>
     </div>
