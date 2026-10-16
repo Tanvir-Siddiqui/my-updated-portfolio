@@ -376,7 +376,7 @@ function App() {
           <p style={{ color: '#aaa', fontSize: '14px' }}>Copyright &copy; 2026 Tanvir Siddiqui. All Rights Reserved.</p>
         </div>
         <div className="footer-iconTop">
-          <a href=""><i className='bx bx-up-arrow-alt'></i></a>
+          <a href="#home"><i className='bx bx-up-arrow-alt'></i></a>
         </div>
       </footer>
     </div>
