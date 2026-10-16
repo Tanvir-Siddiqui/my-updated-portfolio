@@ -289,14 +289,14 @@ function App() {
           <a href="/Tanvir_Siddiqui_Resume.pdf" download="Tanvir_Siddiqui_Resume.pdf" className="btn">Download CV</a>
         </div>
         <div className="home-img">
-          <img src="./images/Tanvir-Pic.jpeg" alt="Tanvir Siddiqui" onError={(e)=>{e.target.src='https://via.placeholder.com/300'}} />
+          <img src="./images/tanvir.png" alt="Tanvir Siddiqui" onError={(e)=>{e.target.src='https://via.placeholder.com/300'}} />
         </div>
       </section>
 
       {/* About Section */}
       <section className="about" id="about">
         <div className="about-img">
-          <img src="./images/Tanvir-Pic.jpeg" alt="Tanvir Siddiqui" onError={(e)=>{e.target.src='https://via.placeholder.com/300'}} />
+          <img src="./images/tanvir.png" alt="Tanvir Siddiqui" onError={(e)=>{e.target.src='https://via.placeholder.com/300'}} />
         </div>
         <div className="about-content">
           <h2>About <span>Me</span></h2>
